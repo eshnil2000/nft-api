@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-8491",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/EarLeft/EarLeft-145.png",
+    "description": "EarLeft-145",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Left"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cracked"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Perky Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Colored Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Solid"
+        }
+    ]
+}

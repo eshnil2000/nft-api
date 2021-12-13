@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-2137",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/LazerLeft/LazerLeft-358.png",
+    "description": "LazerLeft-358",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Left"
+        },
+        {
+            "trait_type": "Background",
+            "value": "glow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "laser"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "open"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "cracked"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Solid"
+        }
+    ]
+}

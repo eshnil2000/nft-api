@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-8190",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/BeardLeft/BeardLeft-150.png",
+    "description": "BeardLeft-150",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Left"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Open"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Thick"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Checkered"
+        }
+    ]
+}

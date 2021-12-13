@@ -1,0 +1,31 @@
+{
+    "name": "PolyRabbits-6803",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/BunnyLeftWings/BunnyLeftWings-77.png",
+    "description": "BunnyLeftWings-77",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Left"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Mosaic Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cracked"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bunny Teeth"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Perky Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Bright Eyes"
+        }
+    ]
+}

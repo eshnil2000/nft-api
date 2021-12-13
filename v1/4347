@@ -1,0 +1,35 @@
+{
+    "name": "PolyRabbits-4347",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/Cracked/Cracked-489.png",
+    "description": "Cracked-489",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Front"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bunny Teeth"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Stubble"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Perky Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "3D Eyes"
+        }
+    ]
+}

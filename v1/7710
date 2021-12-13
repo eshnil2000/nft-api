@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-7710",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/LazerRight/LazerRight-161.png",
+    "description": "LazerRight-161",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "right"
+        },
+        {
+            "trait_type": "Background",
+            "value": "glow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "laser"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "open"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Stripes"
+        }
+    ]
+}

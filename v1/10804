@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-10804",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/SmokeRight/SmokeRight-465.png",
+    "description": "SmokeRight-465",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "right"
+        },
+        {
+            "trait_type": "Background",
+            "value": "spotlight"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "pipe"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "bunny teeth"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Thick"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "solid"
+        }
+    ]
+}

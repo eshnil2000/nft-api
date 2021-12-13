@@ -1,0 +1,31 @@
+{
+    "name": "PolyRabbits-10558",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/BunnyTeethLeft/BunnyTeethLeft-194.png",
+    "description": "BunnyTeethLeft-194",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Left"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cracked"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bunny Teeth"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Perky Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Bright Eyes"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Solid"
+        }
+    ]
+}

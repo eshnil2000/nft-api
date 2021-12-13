@@ -1,0 +1,35 @@
+{
+    "name": "PolyRabbits-1313",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/ColoredGlass/ColoredGlass-36.png",
+    "description": "ColoredGlass-36",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Right"
+        },
+        {
+            "trait_type": "Background",
+            "value": "glow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Thick"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Colored Sunglasses"
+        }
+    ]
+}

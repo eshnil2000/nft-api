@@ -1,0 +1,39 @@
+{
+    "name": "PolyRabbits-11051",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/HornedWinged/HornedWinged-327.png",
+    "description": "HornedWinged-327",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Front"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Skeletal Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        }
+    ]
+}

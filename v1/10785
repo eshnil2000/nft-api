@@ -1,0 +1,35 @@
+{
+    "name": "PolyRabbits-10785",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/Horned/Horned-333.png",
+    "description": "Horned-333",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Front"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bunny Teeth"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Perky Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Colored Sunglasses"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "PolyRabbits-3902",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/BeardRightStubble/BeardRightStubble-372.png",
+    "description": "BeardRightStubble-372",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Right"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Open"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Stubble"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Checkered"
+        }
+    ]
+}

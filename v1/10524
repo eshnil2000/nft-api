@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-10524",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/EarRight/EarRight-335.png",
+    "description": "EarRight-335",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Right"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cracked"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Perky Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Colored Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Solid"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "PolyRabbits-12256",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/TopHat/TopHat-125.png",
+    "description": "TopHat-125",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Front"
+        },
+        {
+            "trait_type": "Background",
+            "value": "spotlight"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Skeletal Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Top hat"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Black Sunglasses"
+        }
+    ]
+}

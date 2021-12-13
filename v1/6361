@@ -1,0 +1,35 @@
+{
+    "name": "PolyRabbits-6361",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/Pirate/Pirate-182.png",
+    "description": "Pirate-182",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Front"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow Frame"
+        },
+        {
+            "trait_type": "Body",
+            "value": "smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "goatee"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "bandana"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Bright Eyes"
+        }
+    ]
+}

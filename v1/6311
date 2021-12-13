@@ -1,0 +1,35 @@
+{
+    "name": "PolyRabbits-6311",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/LazerColoredGlassLeft/LazerColoredGlassLeft-388.png",
+    "description": "LazerColoredGlassLeft-388",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Left"
+        },
+        {
+            "trait_type": "Background",
+            "value": "glow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Thick"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Floppy Ears"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Colored Sunglasses"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "PolyRabbits-11653",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/Winter/Winter-347.png",
+    "description": "Winter-347",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Front"
+        },
+        {
+            "trait_type": "Background",
+            "value": "gradient"
+        },
+        {
+            "trait_type": "Body",
+            "value": "smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bunny Teeth"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "goatee"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "beanie"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "goggles"
+        }
+    ]
+}

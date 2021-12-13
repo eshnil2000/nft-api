@@ -1,0 +1,43 @@
+{
+    "name": "PolyRabbits-3997",
+    "image": "https://raw.githubusercontent.com/dappsunilabs/prbt-images/master/HatRight/HatRight-118.png",
+    "description": "HatRight-118",
+    "attributes": [
+        {
+            "trait_type": "Orientation",
+            "value": "Right"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Glow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Thick"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "Vision",
+            "value": "Colored Sunglasses"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Solid"
+        }
+    ]
+}
